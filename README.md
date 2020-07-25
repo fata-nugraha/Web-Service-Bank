@@ -1,6 +1,6 @@
 # WS-Bank
 
-#Pembagian Tugas
+# Pembagian Tugas
 
 Raihan Luthfi Haryawan - 13517016   : API validation rekening, API data rekening, API transfer, API virtual account, API check transiction<br />
 Lydia Astrella Wiguna - 13517019    : Data Base Rekening Bank, Transaction<br />
